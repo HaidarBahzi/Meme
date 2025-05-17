@@ -1,0 +1,82 @@
+{
+  "ahhanime": {
+    "subtitle": "sound.meme.ahhanime",
+    "sounds": ["meme:ahhanime"]
+  },
+  "amogus": {
+    "subtitle": "sound.meme.amogus",
+    "sounds": ["meme:amogus"]
+  },
+  "bawek": {
+    "subtitle": "sound.meme.bawek",
+    "sounds": ["meme:bawek"]
+  },
+  "bruh": {
+    "subtitle": "sound.meme.bruh",
+    "sounds": ["meme:bruh"]
+  },
+  "cj": {
+    "subtitle": "sound.meme.cj",
+    "sounds": ["meme:cj"]
+  },
+  "fart1": {
+    "subtitle": "sound.meme.fart",
+    "sounds": ["meme:fart1"]
+  },
+  "fart2": {
+    "subtitle": "sound.meme.fart",
+    "sounds": ["meme:fart2"]
+  },
+  "fart3": {
+    "subtitle": "sound.meme.fart",
+    "sounds": ["meme:fart3"]
+  },
+  "fart4": {
+    "subtitle": "sound.meme.fart",
+    "sounds": ["meme:fart4"]
+  },
+  "getout": {
+    "subtitle": "sound.meme.getout",
+    "sounds": ["meme:getout"]
+  },
+  "huh1": {
+    "subtitle": "sound.meme.huh",
+    "sounds": ["meme:huh1"]
+  },
+  "huh2": {
+    "subtitle": "sound.meme.huh",
+    "sounds": ["meme:huh2"]
+  },
+  "meow": {
+    "subtitle": "sound.meme.meow",
+    "sounds": ["meme:meow"]
+  },
+  "mrbeast": {
+    "subtitle": "sound.meme.mrbeast",
+    "sounds": ["meme:mrbeast"]
+  },
+  "omg": {
+    "subtitle": "sound.meme.omg",
+    "sounds": ["meme:omg"]
+  },
+  "raah": {
+    "subtitle": "sound.meme.raah",
+    "sounds": ["meme:raah"]
+  },
+  "stup": {
+    "subtitle": "sound.meme.stup",
+    "sounds": ["meme:stup"]
+  },
+  "sui": {
+    "subtitle": "sound.meme.sui",
+    "sounds": ["meme:sui"]
+  },
+  "wtdog": {
+    "subtitle": "sound.meme.wtdog",
+    "sounds": ["meme:wtdog"]
+  },
+  "yipe": {
+    "subtitle": "sound.meme.yipe",
+    "sounds": ["meme:yipe"]
+  }
+}

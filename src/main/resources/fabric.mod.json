@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "meme",
+  "version": "${version}",
+  "name": "Meme",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/meme/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "haidarbahzi.meme.client.MemeDataGenerator"
+    ],
+    "client": [
+      "haidarbahzi.meme.client.MemeClient"
+    ],
+    "main": [
+      "haidarbahzi.meme.Meme"
+    ]
+  },
+  "mixins": [
+    "meme.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -31,7 +31,7 @@ Because life’s too short for boring sounds! 😎
 
 ## Installation
 
-1. Download the latest release `.jar` from [Modrinth](https://modrinth.com/mod/Meme) or [GitHub releases](https://github.com/haidarbahzi/Meme).
+1. Download the latest release `.jar` from [Modrinth](https://modrinth.com/mod/meme) or [GitHub releases](https://github.com/haidarbahzi/Meme).
 2. Put the `.jar` into your `mods` folder.
 3. Launch Minecraft with Fabric Loader and enjoy!
 

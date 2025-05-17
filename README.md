@@ -6,7 +6,7 @@
 
 ## About
 
-This mod is all about fun — it plays random iconic meme sounds like "Bruh," "Amogus," "Meow~", and many more with just one press of a button. Perfect for breaking the silence or just vibing while you build.
+This mod is all about fun — it plays random meme sounds like "Bruh," "Amogus," "Meow~", and many more with just one press of a button. Perfect for breaking the silence or just vibing while you build.
 
 Because life’s too short for boring sounds! 😎
 

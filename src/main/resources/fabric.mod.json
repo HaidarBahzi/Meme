@@ -3,10 +3,13 @@
   "id": "meme",
   "version": "${version}",
   "name": "Meme",
-  "description": "",
-  "authors": [],
-  "contact": {},
-  "license": "GPL-3.0",
+  "description": "Play meme sounds in Minecraft with a hotkey.",
+  "authors": ["HaidarBahzi"],
+  "contact": {
+    "homepage": "https://github.com/HaidarBahzi/Meme",
+    "sources": "https://github.com/HaidarBahzi/Meme"
+  },
+  "license": "MIT",
   "icon": "assets/meme/icon.png",
   "environment": "client",
   "entrypoints": {
